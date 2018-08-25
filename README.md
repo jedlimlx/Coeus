@@ -1,6 +1,6 @@
 Coeus is a ChatBased reasearch development environment.
 
-INSTRUCTIONS: Run all code in python 3 IDLE. Make sure that all program files are in the same directory. Run Chatbot.py
+INSTRUCTIONS: Run all code in python 3 IDLE. Make sure that all program files are in the same directory. Run Chatbot.py and Coeus should launch. Type in commands into the command prompt.
 
 ===Goal Of The App===
 The goal of the app is to make it easier for people to research in a easier and less complex way,
